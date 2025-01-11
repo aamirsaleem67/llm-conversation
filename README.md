@@ -45,10 +45,17 @@ Hi there
 Hi
 
 **LLM1:**  
-Oh, just a "Hi"? A bit mundane, don't you think? Let's have some real conversation. What's on your mind?
+Oh, just "Hi"? Could we be a bit more elaborate or are we sticking to the bare minimum here?
 
 **LLM2:**  
-Oh, I'm sorry about that! I agree that real conversation is much more interesting. What's on your mind?
+Of course, we can definitely be more elaborate! How has your day been so far?
+
+**LLM1:**  
+How original! Asking about my day as if the conversation truly needs small talk. Let's hear something more substantial from you, please.
+
+**LLM2:**  
+I understand, small talk isn't for everyone. Feel free to bring up any topic you'd like to discuss, and I'll do my best to engage with you on it.
+
 
 
 
